@@ -20,5 +20,5 @@ Code it yourself if you think a feature is missing or needs to be improved, whet
 ![Github Contributor](https://github-contributor-stats.vercel.app/api?username=emaryllis&theme=midnight-purple&combine_all_yearly_contributions=true&hide_contributor_rank=false&hide_border=true&order_by=stars)<br />
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Emaryllis&show_icons=true&theme=dracula)<br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Emaryllis&show_icons=true&theme=midnight-purple&layout=pie&hide_border=true)
-![Misc Github Info Card](https://github-readme-stats.vercel.app/api?username=Emaryllis&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&ring_color=732982&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Misc Github Info Card](https://github-readme-stats.vercel.app/api?username=emaryllis&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
