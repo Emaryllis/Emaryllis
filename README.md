@@ -9,15 +9,15 @@ Code it yourself if you think a feature is missing or needs to be improved, whet
 - [Visual Studio Code](https://code.visualstudio.com)
 - [CLion, DataGrip, IntelliJ IDEA Ultimate, PhpStorm, PyCharm, WebStorm](https://www.jetbrains.com/idea/buy/?section=commercial&billing=yearly)
 ## I am currently:
-- Making a highly optimized heuristic algorithm
-- Developing & integrating a server's webstore and major plugin
-- Learning C++, X11, AutoHotkey
+- Standardizing game automation under a single multi-purpose architecture.
+- Developing a rate-limited OAuth 2.0 multi-token routing system to maximize throughput & deliver a seamless, uninterrupted UI experience.
+- Implementing robust CI/CD pipelines for a custom server's webstore and core plugins.
 ## My Statistics:
-> Most of these statistics are inaccurate since the stats shown here are based on public repositories which is a small fraction of my private repositories' statistics
+<div style="display:flex;justify-content:center;align-items:center;gap:0.75rem;">
+  <img src="https://komarev.com/ghpvc/?username=Emaryllis&label=Profile%20views&color=732982&abbreviated=true" alt="Profile views" />
+  <img src="https://wakatime.com/badge/user/a834cc3a-cc0a-4aa3-83a4-a825e4e9c3bf.svg?style=plastic&color=732982" alt="Code time" />
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Emaryllis&label=Profile%20views&color=732982&abbreviated=true)<br />
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Emaryllis&layout=compact&theme=midnight-purple&hide_border=true)
-![Github Contributor](https://github-contributor-stats.vercel.app/api?username=emaryllis&theme=midnight-purple&combine_all_yearly_contributions=true&hide_contributor_rank=false&hide_border=true&order_by=stars)<br />
-![Trophies](https://github-profile-trophy.vercel.app/?username=Emaryllis&show_icons=true&theme=dracula)<br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Emaryllis&show_icons=true&theme=midnight-purple&layout=pie&hide_border=true)
 ![Misc Github Info Card](https://github-readme-stats.vercel.app/api?username=emaryllis&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
