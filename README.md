@@ -13,10 +13,7 @@ Code it yourself if you think a feature is missing or needs to be improved, whet
 - Developing a rate-limited OAuth 2.0 multi-token routing system to maximize throughput & deliver a seamless, uninterrupted UI experience.
 - Implementing robust CI/CD pipelines for a custom server's webstore and core plugins.
 ## My Statistics:
-<div style="display:flex;justify-content:center;align-items:center;gap:0.75rem;">
-  <img src="https://komarev.com/ghpvc/?username=Emaryllis&label=Profile%20views&color=732982&abbreviated=true" alt="Profile views" />
-  <img src="https://wakatime.com/badge/user/a834cc3a-cc0a-4aa3-83a4-a825e4e9c3bf.svg?style=plastic&color=732982" alt="Code time" />
-</div>
+<p align="center"><img src="https://wakatime.com/badge/user/a834cc3a-cc0a-4aa3-83a4-a825e4e9c3bf.svg?style=plastic&color=732982" alt="Code time" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Emaryllis&label=Profile%20views&color=732982&abbreviated=true" alt="Profile views" /></p>
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Emaryllis&layout=compact&theme=midnight-purple&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Emaryllis&show_icons=true&theme=midnight-purple&layout=pie&hide_border=true)
